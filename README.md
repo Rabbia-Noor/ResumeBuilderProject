@@ -107,25 +107,6 @@ Follow these steps to set up the project locally:
 * **Rabbia Noor**
 * [GitHub Profile](https://github.com/Rabbia-Noor)
 
----
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-````
-
----
-
-### **What’s Next?**
-1. Replace placeholder text like `path/to/screenshot1.png` with actual image paths if you have screenshots.
-2. Adjust any content if your project has specific details or additional features.
-3. Add the file as `README.md` to your project folder, then stage, commit, and push it to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push origin main
-````
-
-Let me know if you'd like further help! 😊
 
