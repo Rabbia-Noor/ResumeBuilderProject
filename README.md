@@ -94,11 +94,11 @@ Follow these steps to set up the project locally:
 
 ### Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ### Resume Templates
 
-![Resume Templates](templates.png)
+![Resume Templates](images/templates.png)
 
 ---
 
